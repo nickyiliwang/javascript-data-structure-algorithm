@@ -1,5 +1,12 @@
 # Big-O Notation
 
+## Summary
+
+1. Analyze the performance
+2. High level understanding of time / space complexity
+3. BigO not about precision, but about trends (linear O(n)? quadratic O(n^2) ? constant O(1)? )
+4. Measures the algorithm on runtime instead of the hardware or the input.
+
 a way of generalizing code and talking about the efficiency of code, comparing performance to other pieces of code
 
 system of classifying code
